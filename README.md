@@ -3,7 +3,7 @@ Agentic API ingestion in Mage, followed by Data orchestration, a landing zone in
 
 Looking at economic data as it relates to unemployment (historical data, time series, early 2000s-2026).
 
-Focus of the project is not the code itself, but the architecture design, workflow, and understanding data orchestration and batch processing.
+The focus of the project is not the code itself, but on the architecture design, workflow, and understanding data orchestration (batch processing).
 Many enterprise systems have different tools/software for different sections of data (one for each buisness department, usually thousands if not millions of rows across a corporation) so the idea of data orchestration becomes more impactful as businesses grow.
 
 This is an exploratory project with a focus on data orchestration + agentic workflows/code reviews. 
