@@ -1,5 +1,7 @@
 # Agentic_Data_pipeline_ML_Model
-Agentic API ingestion in Mage, followed by Data orchestration, Landing Zone in Databricks, Automated ML with Claude Code Reviews 
+Agentic API ingestion in Mage, followed by Data orchestration, a landing zone in Databricks, and automated ML with Claude Code Reviews.
+
+Looking at economic data as it relates to unemployment.
 
 
 # Diagram
